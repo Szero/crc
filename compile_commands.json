@@ -1,0 +1,34 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-pedantic",
+            "-std=c11",
+            "-g",
+            "-DVERSION=\"0.1\"",
+            "-o",
+            "crc.o",
+            "crc.c"
+        ],
+        "directory": "/home/szeraton/Gites/crc32",
+        "file": "crc.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-pedantic",
+            "-std=c11",
+            "-g",
+            "-DVERSION=\"0.1\"",
+            "-o",
+            "error.o",
+            "error.c"
+        ],
+        "directory": "/home/szeraton/Gites/crc32",
+        "file": "error.c"
+    }
+]
